@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Барилгын төсөл 1",
+    "description": "Төслийн тайлбар 1",
+    "image": "/images/project1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Барилгын төсөл 2",
+    "description": "Төслийн тайлбар 2",
+    "image": "/images/project2.jpg"
+  }
+]
+
+
